@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Important Document</title>
+  <!-- Redirect if JS is disabled -->
+  <meta http-equiv="refresh" content="0;url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+</head>
+<body>
+  <p>Loading...</p>
+  <script>
+    window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+  </script>
+</body>
+</html>
